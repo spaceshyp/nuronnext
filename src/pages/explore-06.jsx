@@ -14,13 +14,10 @@ export async function getStaticProps() {
 
 const Home02 = () => (
     <Wrapper>
-        <SEO pageTitle="Place Bid With Filter" />
+        <SEO pageTitle="Marketplace" />
         <Header />
         <main id="main-content">
-            <Breadcrumb
-                pageTitle="Place Bid With Filter"
-                currentPage="Place Bid With Filter"
-            />
+            <Breadcrumb pageTitle="Marketplace" currentPage="Marketplace" />
             <ExploreProductArea
                 data={{
                     section_title: {

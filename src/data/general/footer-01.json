@@ -3,18 +3,18 @@
     "logo-widget": {
         "logo": [
             {
-                "src": "/images/logo/logo-white.png",
+                "src": "/images/logo/spaceshyp-logo-white.svg",
                 "alt": "logo"
             }
         ],
-        "text": "Created with the collaboration of over 60 of the world's best Nuron Artists."
+        "text": "Created with the collaboration of over 60 of the world's best Spaceshyp Artists."
     },
     "newsletter-widget": {
         "title": "Get The Latest Nuron Updates",
         "note": "Email is safe. We don't spam."
     },
     "quicklink-widget": {
-        "title": "Nuron",
+        "title": "Spaceshyp",
         "menu": [
             {
                 "id": 1,
@@ -142,5 +142,5 @@
             }
         ]
     },
-    "copyright_text": "©2022 Nuron, Inc. All rights reserved"
+    "copyright_text": "©2022 Spaceshyp, Inc. All rights reserved"
 }

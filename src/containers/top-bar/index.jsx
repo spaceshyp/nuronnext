@@ -8,7 +8,6 @@ import FlyoutSearchForm from "@components/search-form/layout-02";
 import MobileMenu from "@components/menu/mobile-menu-02";
 import UserDropdown from "@components/user-dropdown";
 import { useOffcanvas, useFlyoutSearch } from "@hooks";
-
 // Demo Data
 import sideMenuData from "../../data/general/menu-02.json";
 
@@ -106,7 +105,7 @@ const TopBarArea = () => {
                 isOpen={offcanvas}
                 onClick={offcanvasHandler}
                 logo={[
-                    { src: "/images/logo/logo-white.png" },
+                    { src: "/images/logo/logo-whtite.png" },
                     { src: "/images/logo/logo-dark.png" },
                 ]}
             />

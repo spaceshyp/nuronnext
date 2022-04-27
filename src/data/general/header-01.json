@@ -2,10 +2,10 @@
     "id": "header-data-1",
     "logo": [
         {
-            "src": "/images/logo/logo-white.png"
+            "src": "/images/logo/spaceshyp-logo-white.svg"
         },
         {
-            "src": "/images/logo/logo-dark.png"
+            "src": "/images/logo/spaceshyp-logo-dark.svg"
         }
     ],
     "activity_link": "/activity"
