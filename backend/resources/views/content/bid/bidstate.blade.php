@@ -1,7 +1,7 @@
 
 @extends('layouts/contentLayoutMaster')
 
-@section('title', 'User')
+@section('title', 'Bid State')
 
 @section('vendor-style')
   {{-- vendor css files --}}
@@ -32,7 +32,7 @@
               <th>Name</th>
               <th>Email</th>
               <th>Date</th>
-              <th>Salary</th>
+              <th>Bid Price</th>
               <th>Status</th>
               <th>Action</th>
             </tr>
