@@ -98,8 +98,8 @@
             <th></th>
             <th>Name</th>
             <th>Role</th>
-            <th>Plan</th>
-            <th>Billing</th>
+            <th>Email</th>
+            <th>Password</th>
             <th>Status</th>
             <th>Actions</th>
           </tr>

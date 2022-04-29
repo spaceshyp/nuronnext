@@ -4,7 +4,7 @@ $(function () {
     assetPath = '../../../app-assets/',
     userView = 'app-user-view-account.html',
     statusObj = {
-      1: { title: 'Pending', class: 'badge-light-warning' },
+      1: { title: 'Away', class: 'badge-light-warning' },
       2: { title: 'Active', class: 'badge-light-success' },
       3: { title: 'Inactive', class: 'badge-light-secondary' }
     }
